@@ -78,23 +78,12 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/pass-with-high-score/apex-files-android"
+                  href="https://github.com/pass-with-high-score"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-brand flex items-center gap-1 group"
+                  className="hover:text-brand flex items-center gap-1 group text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200"
                 >
-                  Apex Files
-                  <ArrowUpRight className="w-3.5 h-3.5 opacity-60 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://github.com/pass-with-high-score/ANeko"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-brand flex items-center gap-1 group"
-                >
-                  ANeko Reborn
+                  View All Projects
                   <ArrowUpRight className="w-3.5 h-3.5 opacity-60 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
                 </a>
               </li>
